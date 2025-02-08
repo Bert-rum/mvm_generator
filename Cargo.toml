@@ -1,0 +1,17 @@
+[package]
+name = "mvm_generator"
+version = "1.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.2.7", features = ["derive"] }
+evalexpr = "11.0.0"
+rand = "0.8.5"
+rayon = "1.7.0"
+serde = { version = "1.0.163", features = ["derive"]}
+serde_json = "1.0.96"
+
+[profile.release]
+lto = true
