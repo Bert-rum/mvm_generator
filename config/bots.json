@@ -1669,8 +1669,8 @@
 		"time_before_spawn" : 0,
 		"time_between_spawn" : 12,
 		"currency_weight": 35,
-		"weapon_attributes" : [["explosive fragment count", "12"], ["explosive_fragment_damage", "25.0"], ["frag explosion radius mult", "3.0"]],
-		"attributes" : [ ["damage mult 13", "18.0"], ["inverter powerup", "3.0"], ["faster reload rate", "0.01"], ["fire rate bonus", "0.75"], ["move speed bonus", "0.4"], ["Blast radius increased", "3.5"]]
+		"weapon_attributes" : [["explosive fragment count", "10"], ["explosive_fragment_damage", "25.0"], ["frag explosion radius mult", "2.5"]],
+		"attributes" : [ ["damage mult 13", "15.0"], ["inverter powerup", "3.0"], ["faster reload rate", "0.01"], ["fire rate bonus", "0.8"], ["move speed bonus", "0.4"], ["Blast radius increased", "3.0"]]
 	},
 	"The Incendiary Bomber" :
 	{
@@ -1688,8 +1688,8 @@
 		"time_before_spawn" : 0,
 		"time_between_spawn" : 12,
 		"currency_weight": 45,
-		"weapon_attributes" : [["explosive fragment count", "18"], ["explosive_fragment_damage", "30.0"], ["Blast radius increased", "3.25"]],
-		"attributes" : [ ["damage mult 13", "22.5"], ["inverter powerup", "3.0"], ["supernova powerup", "2.0"], ["faster reload rate", "0.01"], ["fire rate bonus", "0.8"], ["move speed bonus", "0.4"], ["afterburn rating", "1.0"]]
+		"weapon_attributes" : [["explosive fragment count", "15"], ["explosive_fragment_damage", "25.0"], ["Blast radius increased", "2.5"]],
+		"attributes" : [ ["damage mult 13", "18"], ["inverter powerup", "3.0"], ["supernova powerup", "2.0"], ["faster reload rate", "0.01"], ["fire rate bonus", "0.9"], ["move speed bonus", "0.4"]]
 	},
 	"Aimless Bowman" :
 	{
