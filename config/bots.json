@@ -2670,7 +2670,7 @@
 		"time_before_spawn" : 0,
 		"time_between_spawn" : 6,
 		"currency_weight": 12,
-		"attributes" : [ ["damage mult 13", "27.0"], ["melee range multiplier", "15.0"], ["move speed bonus", "1.15"], ["critical block rating", "100.0"] ]
+		"attributes" : [ ["damage mult 13", "22.0"], ["melee range multiplier", "12.5"], ["move speed bonus", "1.15"], ["critical block rating", "100.0"] ]
 	},
 	"Giant Escape Plan" :
 	{
@@ -2688,7 +2688,8 @@
 		"time_before_spawn" : 0,
 		"time_between_spawn" : 8,
 		"currency_weight": 15,
-		"attributes" : [ ["damage mult 13", "27.0"], ["melee range multiplier", "15.0"], ["inverter powerup", "2.0"], ["move speed bonus", "0.6"], ["critical block rating", "100.0"]]
+		"weapon_attributes" : [[""]],
+		"attributes" : [ ["damage mult 13", "24.0"], ["melee range multiplier", "12.5"], ["inverter powerup", "2.0"], ["move speed bonus", "0.6"], ["critical block rating", "100.0"]]
 	},
 	"Buff Banner Soldier" :
 	{
@@ -2712,7 +2713,7 @@
 		"weapons" : ["TF_WEAPON_ROCKETLAUNCHER", "The Buff Banner"],
 		"bot_attributes":["SpawnWithFullCharge"],
 		"difficulty" : 4,
-		"health" : "2500",
+		"health" : "25000",
 		"class_icon" : "soldier_buff_giant",
 		"is_giant" : true,
 		"count" : 2,
