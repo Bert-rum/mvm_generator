@@ -2688,7 +2688,6 @@
 		"time_before_spawn" : 0,
 		"time_between_spawn" : 8,
 		"currency_weight": 15,
-		"weapon_attributes" : [[""]],
 		"attributes" : [ ["damage mult 13", "24.0"], ["melee range multiplier", "12.5"], ["inverter powerup", "2.0"], ["move speed bonus", "0.6"], ["critical block rating", "100.0"]]
 	},
 	"Buff Banner Soldier" :
@@ -3027,6 +3026,6 @@
 		"time_before_spawn" : 0,
 		"time_between_spawn" : 3,
 		"currency_weight": 20,
-		"attributes" : [ ["damage mult 13", "45.0"], ["redirect teammate damage taken", "0.8"], ["move speed bonus", "0.45"], ["resistance powerup", "juggernaut powerup", "1.0"] ]
+		"attributes" : [ ["damage mult 13", "45.0"], ["redirect teammate damage taken", "0.8"], ["move speed bonus", "0.45"], ["melee range multiplier", "2.0"], ["juggernaut powerup", "1.0"] ]
 	}
 }
