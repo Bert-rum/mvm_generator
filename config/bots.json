@@ -2849,7 +2849,7 @@
 		"weapons" : ["The Liberty Launcher"],
 		"difficulty" : 4,
 		"bot_attributes" : ["HoldFireUntilFullReload"],
-		"health" : "3000",
+		"health" : "30000",
 		"class_icon" : "soldier_barrage_giant",
 		"count" : 2,
 		"max_active" : 2,
