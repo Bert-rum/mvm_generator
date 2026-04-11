@@ -1753,7 +1753,7 @@
 	{
 		"class"	: "soldier",
 		"weapons" : ["The Battalion's Backup", "The Disciplinary Action"],
-		"bot_attributes" : ["SpawnWithFullCharge", "AlwaysFireWeapon"],
+		"bot_attributes" : ["SpawnWithFullCharge"],
 		"weapon_restriction":"MeleeOnly",
 		"difficulty" : 4,
 		"health" : "7500",
@@ -1773,7 +1773,7 @@
 	{
 		"class"	: "soldier",
 		"weapons" : ["The Battalion's Backup", "The Disciplinary Action"],
-		"bot_attributes" : ["SpawnWithFullCharge", "AlwaysFireWeapon"],
+		"bot_attributes" : ["SpawnWithFullCharge"],
 		"weapon_restriction":"MeleeOnly",
 		"difficulty" : 4,
 		"health" : "30000",
